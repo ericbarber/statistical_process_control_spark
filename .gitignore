@@ -1,3 +1,8 @@
+# project specfic directories
+data
+venv
+prompts
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
